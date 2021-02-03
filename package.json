@@ -1,0 +1,20 @@
+{
+  "name": "table-schema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "create": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.0.0",
+    "dotenv": "^8.2.0",
+    "exceljs": "^4.2.0",
+    "lodash": "^4.17.20",
+    "luxon": "^1.25.0",
+    "mariadb": "^2.5.2"
+  }
+}
